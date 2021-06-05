@@ -9,4 +9,3 @@ Nowadays 70% website developed using wordpress.
 
 Extension Tutorial: https://www.loom.com/share/9c715f13d1324750a2aa7d1b257bf7fc
 
-git remote add origin https://github.com/barkat-git/tier5ExtProject.git
